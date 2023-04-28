@@ -36,7 +36,5 @@ public class CombSort {
             step = (int) (step / FACTOR);
             System.out.println(step);
         }
-
-
     }
 }
